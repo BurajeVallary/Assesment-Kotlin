@@ -2,8 +2,7 @@ fun main() {
     val result = firstCharacter("Hello", "would")
     println(result)
 
-//    val mine=getNum (arrayOf(2,4,6))
-//    println(mine)
+
 
     val numbers = intArrayOf( 2, 4,6)
     val (smallest, largest, average)= intArrayOf(2,4,6)
